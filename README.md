@@ -133,6 +133,7 @@ Other Hallucination
 
 - [2403.11116](https://arxiv.org/abs/2403.11116) | PhD: A Prompted Visual Hallucination Evaluation Dataset, [IntrinsicHallu](https://github.com/jiazhen-code/IntrinsicHallu), `Benchmark[53k/7k]: obj, attr, conflict, common-sense`
 
+- [2404.13874](https://arxiv.org/abs/2404.13874) | VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models, [VALOR](https://github.com/haoyiq114/VALOR), `Benchmark[~200], obj, attr, relation`
 
 Illusion
 
